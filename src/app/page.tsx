@@ -315,7 +315,7 @@ export default function Home() {
       <div className="max-w-6xl mx-auto">
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-zinc-900 dark:text-zinc-50 mb-2">
-            ERC-721 NFT 테스트 앱
+            ERC-721 NFT 테스트 앱 : 92113774 이지훈
           </h1>
           <p className="text-zinc-600 dark:text-zinc-400 mb-4">
             Sepolia 테스트넷에서 NFT를 민팅하고 관리하세요
