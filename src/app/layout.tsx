@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'ERC-721 NFT 테스트 앱',
+  title: 'ERC-721 NFT 테스트 앱 : 92113774 이지훈',
   description: 'Sepolia 테스트넷에서 ERC-721 NFT를 민팅하고 관리하는 앱',
 }
 
